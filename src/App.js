@@ -20,16 +20,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ---Learn Git---
+          Learn React
         </a>
-
-        <ul>
-          <li>Introduction to Git</li>
-          <li>Basic Git Commands</li>
-          <li>Branching and Merging</li>
-          <li>Amend, Revert & Reset</li>
-          <li>Stash and Cherry-Pick</li>
-        </ul>
       </header>
     </div>
   );
