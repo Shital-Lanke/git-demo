@@ -7,10 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.          
+          update <code>src/App.js</code> and save to reload.          
         </p>
         <p className='subHeading'>
-          Hey, this is Git Session & today is Tuesday 26th Aug.
+          Hey, this is Git Session.
         </p>
 
         <button>Click Here!</button>
@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React Js
         </a>
       </header>
     </div>
